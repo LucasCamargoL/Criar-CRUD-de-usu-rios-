@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qJnCpYcPcmq/pNBtjZJKc8rIE6DocI0M6AU7tmvTf3qj07oPaHX/h4O7TRyUfPL11NbmCfWcOC7jWRco61bchA==",
+  "dgSpecHash": "BBe3WHOh0bLgrzFje3BBAYqksN4PyOymQOeegnCHUkKRdD1YlBEtKAj2B49Pc9Ox175SkqIA6B/UTy+spu3K3g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LUCAS LUCAS LUCAS\\Desktop\\full stack\\Desenvolvimento de API\\04e - Atividade 5 - Criar CRUD de usuários\\Exo.WebApi\\Exo.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\LUCAS LUCAS LUCAS\\Desktop\\full stack\\Desenvolvimento de API\\04f - Atividade 6 - Criar método de login e CORS\\Exo.WebApi\\Exo.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LUCAS LUCAS LUCAS\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\LUCAS LUCAS LUCAS\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
